@@ -53,7 +53,7 @@ int main() {
 	
 			
 //-------------------- Variaveis que o usuario precisa configurar ------------------//	
-	string sinal_xn = "AmostrasSinais\\sinalxn.txt";                    			//Diretorio do sinal xn
+	string sinal_xn = "AmostrasSinais\\sinalxn.txt";                    		//Diretorio do sinal xn
 	int *N          = new int(total_amostras(sinal_xn));                            //Armazena quantas amostras tem o arquivo	
 //----------------------------------------------------------------------------------//
 		
